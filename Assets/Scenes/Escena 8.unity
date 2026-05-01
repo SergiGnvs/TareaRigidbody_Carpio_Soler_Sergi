@@ -553,6 +553,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 040a9812d8e623b47ad359688135e55c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ExplosionController
+  fuerzaExplosion: 500
+  radioExplosion: 5
+  upwardsModifier: 2
 --- !u!1 &338460770
 GameObject:
   m_ObjectHideFlags: 0
